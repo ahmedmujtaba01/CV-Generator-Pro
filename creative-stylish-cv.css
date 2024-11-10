@@ -1,0 +1,18 @@
+.creativeStylish {
+    font-family: 'Georgia', serif;
+    color: #333;
+    background: linear-gradient(135deg, #f7f7f7, #dfe9f3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.creativeStylish h2 {
+    color: #003366;
+    font-size: 1.8em;
+    border-bottom: 2px solid #0056b3;
+}
+
+.creativeStylish p {
+    margin: 5px 0;
+}

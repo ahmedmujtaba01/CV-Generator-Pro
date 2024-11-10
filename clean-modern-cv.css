@@ -1,0 +1,18 @@
+.cleanModern {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cleanModern h2 {
+    color: #0056b3;
+    font-size: 1.5em;
+    border-bottom: 1px solid #ccc;
+}
+
+.cleanModern p {
+    margin: 5px 0;
+}
